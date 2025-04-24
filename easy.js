@@ -8,4 +8,7 @@ import { firstFactorial } from "./easy-questions/3_firstFactorial.js";
 //console.log(firstFactorial(8));
 
 import { firstReverse } from "./easy-questions/4_firstReverse.js";
-console.log(firstReverse("merhaba"));
+//console.log(firstReverse("merhaba"));
+
+import { findIntersection } from "./easy-questions/5_findIntersection.js";
+console.log(findIntersection(["1, 3, 7, 13, 1 , 15", "2, 4, 13, 15"]));
