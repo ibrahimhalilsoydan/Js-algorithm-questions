@@ -14,4 +14,12 @@ import { findIntersection } from "./easy-questions/5_findIntersection.js";
 //console.log(findIntersection(["1, 3, 7, 13, 1 , 15", "2, 4, 13, 15"]));
 
 import { questionMark } from "./easy-questions/6_questionMark.js";
-console.log(questionMark("acccc?7??3rr1????????5"));
+//onsole.log(questionMark("acccc?7??3rr1????????5"));
+
+import { simpleAdding } from "./easy-questions/7_simpleAdding.js";
+
+//console.log(simpleAdding(2));
+
+import { letterCapital } from "./easy-questions/8_letterCapitalize.js";
+
+console.log(letterCapital("merhaba nasılsın çalışıyormusun"));
